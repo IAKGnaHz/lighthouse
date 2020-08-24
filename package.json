@@ -76,6 +76,7 @@
     "parcel-bundler": "^1.12.4",
     "pg": "^8.2.1",
     "pg-hstore": "^2.3.3",
+    "preact": "^10.4.7",
     "preact-render-to-json": "^3.6.6",
     "prettier": "1.16.4",
     "prop-types": "^15.7.2",
@@ -83,5 +84,6 @@
     "rimraf": "^3.0.2",
     "sqlite3": "^4.2.0",
     "typescript": "^3.9.3"
-  }
+  },
+  "dependencies": {}
 }
